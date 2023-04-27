@@ -1,0 +1,23 @@
+
+Begin with a YAML document header: A YAML file typically begins with a document header that specifies
+the YAML version and encoding. For example, you can begin with the following header:
+---
+yaml: "1.2"
+encoding: UTF-8
+---
+
+Define your data: Using the appropriate YAML syntax, define your data in the file.
+This may include defining variables, arrays, objects, and other data structures. For example:
+---
+name: John Smith
+age: 30
+hobbies:
+  - hiking
+  - reading
+address:
+  street: 123 Main St.
+  city: Anytown
+  state: CA
+  zip: 12345
+---
+Save the file: Once you've defined your data in YAML format, save the file with a .yml or .yaml extension.
