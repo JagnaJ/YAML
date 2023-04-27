@@ -1,3 +1,8 @@
+Decide on the structure of your data: You should have a clear idea of the structure of the data you want to define in your YAML file.
+This will help you determine the appropriate YAML syntax to use.
+
+Open a text editor: You can use any text editor to create a YAML file, including Notepad, Atom, Sublime Text, or Visual Studio Code.
+
 
 Begin with a YAML document header: A YAML file typically begins with a document header that specifies
 the YAML version and encoding. For example, you can begin with the following header:
